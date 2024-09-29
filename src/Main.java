@@ -18,6 +18,5 @@ public class Main {
         System.out.println("Prodejce mrkve:");
         System.out.println("name: " + firstSeller.getName() + "; birthdate: " + firstSeller.getBirthdate() + "; address: " + firstSeller.getAddress());
         System.out.println("name: " + secondSeller.getName() + "; birthdate: " + secondSeller.getBirthdate() + "; address: " + secondSeller.getAddress());
-
     }
 }
